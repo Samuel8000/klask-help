@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    /* Colors*/
+    --white: #ffffff;
+    --divider: linear-gradient(90deg, #A78BFA 0%, #60A5FA 50%, rgba(0, 0, 0, 0.00) 100%);
+    --bg-gradient: linear-gradient(145deg, #F8F7FF 12.17%, #FAFAFA 50%, rgb(139, 92, 246) 93.83%);
+    --new-bg-gradient: linear-gradient(to right, #ede9fe, #efecfe, #f1efff, #f3f1ff, #f5f4ff, #f4f4ff, #f3f3ff, #f2f3ff, #edf1ff, #e8eeff, #e2ecfe, #dbeafe);
+    
+    /* Purple */
+    --primary: #A78BFA;
+    --primary-strong: #8B5CF6;
+    --primary-soft: rgb(139, 92, 246, 0.28);
+    --primary-bg: #F8F7FF;
+
+    /* Red */
+    --danger: #fb7185;
+    --danger-soft: rgba(244, 63, 94, 0.28);
+    --danger-surface: #FFE4E6;
+    --danger-strong: #BE123C;
+    
+    /* Green */
+    --success: #34d399;
+    --success-soft: #DCFCE7;
+    --success-strong: #10B981;
+    
+    /* Blue */
+    --info: #60a5fa;
+    --info-bg: #F1F5F9;
+    --info-soft: rgb(59, 130, 246, 0.28);
+    --info-surface: #DBEAFE;
+    --info-strong: #3B82F6;
+
+    /* Orange */
+    --warning: #F8BD4F;
+    --warning-strong: #F59E0B;
+    --warning-soft: rgba(245, 158, 11, 0.28);
+    --warning-surface: #FFEDD5;
+
+    /* Cyan */
+    --accent: #22D3EE;
+    --accent-strong: #06B6D4;
+    --accent-soft: rgba(6, 182, 212, 0.28);
+    --accent-surface: #CFFAFE;
+    
+    --border-color: rgba(30, 41, 59, 0.14);
+    --border-color-subtle: rgba(30, 41, 59, 0.08);
+    --shadow-color: rgba(30, 41, 59, 0.12);
+    --shadow-color-soft: rgba(30, 41, 59, 0.06);
+
+    --detail-surface: #f8fbff;
+
+    --text-color-default: #1e293b;
+    --text-color-muted: #64748b;
+    --text-color-soft: #94a3b8;
+    
+    /* Radius */
+
+    --radius-sm: 14px;
+    --radius-md: 20px;
+    --radius-lg: 28px;
+    --radius-xl: 36px;
+    --radius-pill: 999px;
+    
+    /* Spacing */
+
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-5: 20px;
+    --space-6: 24px;
+    --space-7: 32px;
+
+    /* Overlay layers */
+
+    --z-side-panel: 1300;
+    --z-dialog: 1400;
+    
+    /* Fonts */
+
+    --title-font: "Sour Gummy", "Comic Neue", ui-rounded, system-ui, sans-serif;
+    --display-font: "Fredoka", "Sour Gummy", sans-serif;
+    --text-font: "Quicksand", "Nunito", sans-serif;
+    --number-font: "Nunito", sans-serif;
+    
+    --font-weight-regular: 400;
+    --font-weight-medium: 600;
+    --font-weight-bold: 700;
+    --font-weight-extrabold: 800;
+    
+    /* Type scale (rem) */
+    --text-2xs: 0.76rem;
+    --text-xs: 0.875rem;
+    --text-sm: 1rem;
+    --text-md: 1.0625rem;
+    --text-base: 1.125rem;
+    --text-lg: 1.1875rem;
+    --text-xl: 1.25rem;
+    --text-xxl: 1.5rem;
+    --text-display: 2.25rem;
+    --text-panel-title: 1.375rem;
+    --text-detail: 0.9375rem;
+    --text-overline: 0.6875rem;
+}

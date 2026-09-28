@@ -1,0 +1,7 @@
+site_name: Klask Help
+
+theme:
+  name: material
+
+extra_css:
+  - stylesheets/master-design-system.css
