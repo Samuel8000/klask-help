@@ -1,13 +1,12 @@
-# Welcome to MkDocs
+# Klask Help
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welkom op het kenniscentrum voor KlasK, jouw digitale planner.
+Alle artikelen zijn momenteel van toepassing op [Klask Demo](https://klask-demo.be).
 
-## Commands
+## Nieuwe versie 0.6.1.1
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Bug fixes
+* Gebruikers activiteiten
 
 ## Project layout
 
