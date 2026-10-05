@@ -1,0 +1,11 @@
+site_name: Klask Kenniscentrum
+
+theme:
+  name: material
+  logo: assets/Logo_KLASK.webp
+  favicon: assets/favicon.png
+  language: nl
+
+extra_css:
+  - stylesheets/master-design-system.css
+  - stylesheets/material-overrides.css
