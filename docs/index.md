@@ -3,7 +3,7 @@
 Welkom op het kenniscentrum voor KlasK, jouw digitale planner.
 Alle artikelen zijn momenteel van toepassing op [Klask Demo](https://klask-demo.be).
 
-Dit kenniscentrum is een levende pagina, net als je KlasK en zal worden uitgebreid bij elke nieuwe release. 
+Dit kenniscentrum is een levende pagina en zal worden uitgebreid bij elke nieuwe release van KlasK. 
 
 ## (Bèta) Nieuwe versie 0.6.2.0
 
