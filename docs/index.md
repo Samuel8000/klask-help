@@ -5,7 +5,7 @@ Alle artikelen zijn momenteel van toepassing op [Klask Demo](https://klask-demo.
 
 ## Nieuwe versie 0.6.1.1
 
-### Bug fixes
+### Bugfixes
 * Gebruikers activiteiten
 
 ## Project layout
