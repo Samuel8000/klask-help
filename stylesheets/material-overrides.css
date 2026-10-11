@@ -1,0 +1,31 @@
+:root {
+    --md-text-font: var(--text-font);
+}
+
+.md-header {
+    background-color: var(--white);
+    color: var(--text-color-default);
+}
+
+.md-search__form {
+    background-color: var(--white);
+    border: 1px solid var(--text-color-muted);
+    border-radius: var(--radius-sm);
+}
+
+.md-search__input {
+    color: var(--text-color-default);
+}
+
+.md-search__input::placeholder,
+.md-search__icon {
+    color: var(--text-color-muted);
+}
+
+.md-search__icon[for=__search]{
+    color: var(--text-color-muted);
+}
+
+.md-search__input::placeholder {
+    opacity: 1;
+}
